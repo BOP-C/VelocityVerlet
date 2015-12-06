@@ -1,0 +1,5 @@
+1 1 
+100000 1e-5 1000
+
+# mass, length of the wire, 
+# simulation time, time step, number of steps between file writes
